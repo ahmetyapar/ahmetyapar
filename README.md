@@ -2,13 +2,13 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetyapar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetyapar" /> </p>
-- 🔭 I’m currently working on **dsaa**
+- 👋 Hi there! My name is Ahmet
 
-- 🌱 I’m currently learning **fds**
+- 🌱 I’m currently learning React
 
-- 👯 I’m looking to collaborate on **adsdfsadf**
+- 👨‍💻 I'm developing my skills every day to become a front-end developer.
 
-- 🤝 I’m looking for help with **fsdfs**
+- 📚 I'm a Electrical-Electronics Engineering student at Middle East Technical University.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
